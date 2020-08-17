@@ -1,9 +1,9 @@
 #Complete the fuction to return the swapped digits of a given two-digit-interger.
 def swap_digits(num):
-  return (str(num%10) + str(num//10))
+  return None
    
    
    
 #Invoke the function with any two digit interger as its argument
-print(swap_digits(79))
+print(swap_digits())
 
