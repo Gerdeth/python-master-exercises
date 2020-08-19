@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ab553d37-24e9-45e3-aaaf-9a26e53e7224.ws-us02.gitpod.io",
+    "address": "https://e1053b1f-3eaf-4e78-91fb-a8dc66c56f35.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -167,7 +167,7 @@
         {
             "slug": "12-Last_two_digits",
             "title": "12-Last_two_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Last_two_digits",
             "translations": [
                 "es",
@@ -178,7 +178,7 @@
         {
             "slug": "13-Tens_digit",
             "title": "13-Tens_digit",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Tens_digit",
             "translations": [
                 "es",
@@ -189,7 +189,7 @@
         {
             "slug": "14-sum_of_digits",
             "title": "14-sum_of_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/14-sum_of_digits",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "15-Digit_after_decimal_point",
             "title": "15-Digit_after_decimal_point",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Digit_after_decimal_point",
             "translations": [
                 "us",
@@ -211,7 +211,7 @@
         {
             "slug": "16-Car_route",
             "title": "16-Car_route",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Car_route",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "17-Century",
             "title": "17-Century",
-            "done": false,
+            "done": true,
             "path": "exercises/17-Century",
             "translations": [
                 "es",
